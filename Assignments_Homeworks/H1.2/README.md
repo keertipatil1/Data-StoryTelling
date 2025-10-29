@@ -1,11 +1,10 @@
-# Homework 1.2 
+Homework 1.2 
 
-# Objective  
-Installing MySQL & Creating Databases
+Objective : Installing MySQL & Creating Databases
 
 ---
 
-# Tasks  
+Tasks :
 
 1. Install **MySQL** using the *Developer Default* setup and configure the server with a password.  
 2. Open **MySQL Workbench** and run the provided SQL script to create a sample database and tables.  
@@ -13,7 +12,7 @@ Installing MySQL & Creating Databases
 
 ---
 
-# Submit  
+Submit : 
 
 1. Installation steps summary  
 2. SQL commands used  
