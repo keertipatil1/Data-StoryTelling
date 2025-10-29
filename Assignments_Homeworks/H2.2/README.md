@@ -1,6 +1,6 @@
 Using the IMDb Movie Review Dataset, complete the following tasks:
 
-# Tasks
+Tasks
 
 1. Load the Dataset 
    - Use PySpark to read the CSV file into a DataFrame.
