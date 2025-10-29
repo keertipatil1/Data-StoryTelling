@@ -1,3 +1,5 @@
+Homework 1.2 
+
 ## Objective  
 **Installing MySQL & Creating Databases**
 
